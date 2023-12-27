@@ -1,0 +1,31 @@
+ .AddClient {
+    margin-left: auto;
+  }
+  
+  .company{
+    background: #B0E0E6E6;
+    height: 90vh;
+    display:flow-root;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .companyglass{
+    display: flexbox;
+    background: #ffffff;
+    height: 85vh;
+    justify-content: center;
+    
+    align-items: center;
+    margin-top:1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+   
+  }
+
+  .comCon{
+    margin-left: 10px;
+    margin-right: 10px;
+  }

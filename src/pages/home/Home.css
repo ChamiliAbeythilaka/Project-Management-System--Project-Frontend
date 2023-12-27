@@ -1,0 +1,79 @@
+.notification{
+    margin: 25px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    color: #333333;
+    background: #dddddd;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    margin-top: 10px;
+  }
+  
+  
+  .notification:hover{
+    cuser:pointer;
+  }
+  
+  .notification:active {
+    background-color: #cccccc;
+  }
+  
+  .button-badge{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width:25px;
+    height:25px; 
+    background: red;
+    color: #ffffff;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 50%;
+  }
+
+ 
+  .alert{
+    width:70%;
+    top: 200px;
+    
+  }
+
+  .Home{
+    background: #B0E0E6E6;
+    height: 90nvh;
+    display:flow-root;
+    justify-content: center;
+    align-items: center;
+    
+ 
+  }
+
+  .Homeglass{
+    display: flexbox;
+    background: #ffffff;
+    height: 85vh;
+    justify-content: center;
+    align-items: center;
+    margin-top:1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom:1rem ;
+   
+  }
+       
+  .conHom{
+    margin-left: 10px;
+   margin-right: 10px;
+    
+  }
+  
+ .alert{
+  margin-top: -180px;
+ }
+  

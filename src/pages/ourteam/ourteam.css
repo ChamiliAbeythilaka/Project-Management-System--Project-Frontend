@@ -1,0 +1,31 @@
+
+.ourteam{
+background: #B0E0E6E6;
+height: 90vh;
+display:flow-root;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.ourteamglass{
+display: flexbox;
+background: #ffffff;
+
+justify-content: center;
+
+align-items: center;
+margin-top:1rem;
+margin-left: 1rem;
+margin-right: 1rem;
+height: 85vh;
+margin-bottom: 2rem;
+
+}
+
+.ourCon{
+margin-left: 10px;
+margin-right: 10px;
+}
+ 

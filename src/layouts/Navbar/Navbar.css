@@ -1,0 +1,17 @@
+
+.profile{
+  display: inline-block;
+  float: right;
+  width: 150px;
+  margin-left: 20px;
+}   
+
+.username{
+  color: #fff;
+ margin-left: 75px;
+  margin-top: -40px;
+  margin-left: 45px;
+ position: absolute;
+  font-size:13.5px;
+ 
+ } 
